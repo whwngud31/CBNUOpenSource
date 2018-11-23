@@ -6,6 +6,6 @@ CBNU Open Source Repo
     *최수빈
     *이민주
 
-	# 추천 프로그램
+# 추천 프로그램
 
 	gitahead
